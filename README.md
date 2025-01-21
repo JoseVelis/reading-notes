@@ -10,8 +10,16 @@ Soy José Velis, un estudiante apasionado por la tecnología y el aprendizaje co
 
 ---
 
+| Notas         | Area de trabajo        |
+| ---------------|----------------|
+| 20        | GitHub     |
+| 18 | Markdown |
+| 15 | CodePen |
+
+---
+
 ## 🌱 Mi visión como desarrollador  
-Quiero crecer como profesional, aprender nuevas tecnologías y contribuir a proyectos que marquen la diferencia.
+Quiero desempeñarme en esta área de trabajo y convertirme en un desarrollador competente, aprendiendo constantemente y contribuyendo a proyectos significativos.
 
 ---
 
