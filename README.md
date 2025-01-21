@@ -22,9 +22,8 @@ Quiero crecer como profesional, aprender nuevas tecnologías y contribuir a proy
 
 ---
 
-## 📬 Contacta conmigo
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario)  
+## 📬 Contacta conmigo 
 - [GitHub](https://github.com/JoseVelis)  
-- 📧 [Correo](velisthings@gmail.com)
+- [Correo](velisthings@gmail.com)
 
 ---
